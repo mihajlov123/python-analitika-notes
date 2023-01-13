@@ -1,0 +1,21 @@
+txt
+
+seaborn
+
+uvoz dataseta
+memory false velike datoteke
+desciribng methods
+poraba MB dataseta
+odstranjevanje stolpcev
+odstrnajevanje podvojenih, praznih vrstic
+
+sprememba podatkovnih tipov
+izvoz podatkov v file in bazo
+
+
+2 del
+naloži iz pickle file
+sum, groupby analize
+min, max
+
+dve analizi po svoji izbiri - analiza, graf, ugotovitev
